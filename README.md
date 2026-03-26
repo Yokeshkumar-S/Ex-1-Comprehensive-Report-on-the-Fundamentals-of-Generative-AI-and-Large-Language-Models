@@ -63,7 +63,12 @@ Step 6: Review and Edit 6.1 Proofread for grammar, spelling, and clarity 6.2 Ens
 Step 7: Finalize and Export 7.1 Format the report professionally 7.2 Export as PDF or desired format 7.3 Prepare a brief presentation if required (optional)
 
 
-Output:
+Output:The system successfully generated responses about Artificial Intelligence and Generative AI based on the given prompts.
+It identified different types of generative models such as GANs, VAEs, Autoregressive, Diffusion, and Transformer models.
+The model explained the key components of Large Language Models including tokenizer, embedding layer, transformer blocks, and output layer.
+The AI demonstrated the ability to generate informative content related to the evolution and applications of Generative AI technologies.
 
 
-Result:
+Result:The experiment demonstrated how prompt engineering helps generate accurate and relevant responses from AI systems.
+Different prompts produce different outputs based on user instructions.
+Thus, effective prompt design improves the performance of Generative AI models.
